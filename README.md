@@ -1,0 +1,11 @@
+# COMP2083 Lesson 5 - Git for Teams
+
+`git clone https://github.com/ifotn/git-for-teams-2026` - download local copy of repo
+
+`git remote -v` - verify local folder connected to team repo on GitHub
+
+`git branch -f {your-name}` - create branch using your first name
+
+`git checkout {your-name}` - switch active branch to your own branch
+
+`git branch` - shows all branches, highlighting active branch in green
