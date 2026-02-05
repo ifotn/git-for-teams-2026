@@ -9,3 +9,7 @@
 `git checkout {your-name}` - switch active branch to your own branch
 
 `git branch` - shows all branches, highlighting active branch in green
+
+`git add .` - track all changes
+`git commit -m {description-here}` - describe changes in this version
+`git push -u origin {branch}` - push to our own branch on GitHub
