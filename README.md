@@ -19,3 +19,7 @@
 `git checkout master` - next day, get fresh copy of integrated master to start work again
 
 `git pull` - download from GitHub to update local
+
+`git checkout {my-branch}` - return to our working branch
+
+`git rebase master` - update our branch with latest version of master
